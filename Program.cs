@@ -21,23 +21,23 @@ void CreateArrayThreeEl(string[] arrayUser, string[] arraynew)
     }
 }
 void PrintStrings(string[] stringsArray)
-    {
-        Console.WriteLine();
+{
+    Console.WriteLine();
     Console.WriteLine("Исходные значения: ");
-        foreach (var str in stringsArray)
-        {
-            Console.Write($"{str} ");
-        }
-        Console.WriteLine();
+    foreach (var str in stringsArray)
+    {
+        Console.Write($"{str} ");
     }
-void PrintArray(string[]array)
+    Console.WriteLine();
+}
+void PrintArray(string[] array)
 {
     Console.WriteLine();
     Console.WriteLine("Итоговые значения из 3 символов:");
     for (int i = 0; i < array.Length; i++)
     {
-       
+
         Console.Write($"{array[i]} ");
     }
-    
+
 }
