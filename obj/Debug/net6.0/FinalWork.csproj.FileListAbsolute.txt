@@ -1,0 +1,15 @@
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\bin\Debug\net6.0\FinalWork.exe
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\bin\Debug\net6.0\FinalWork.deps.json
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\bin\Debug\net6.0\FinalWork.runtimeconfig.json
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\bin\Debug\net6.0\FinalWork.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\bin\Debug\net6.0\FinalWork.pdb
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfo.cs
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\refint\FinalWork.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.pdb
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\FinalWork.genruntimeconfig.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Итоговая контрольная работа по основному блоку\FinalWork\obj\Debug\net6.0\ref\FinalWork.dll
